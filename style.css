@@ -1,0 +1,26 @@
+body
+{
+    background-size: cover;
+background-position:center;
+}
+#title_a{
+font-size:30px;
+}
+#instructions{
+    font-size:20px;
+}
+#play{
+    font-size:20px;
+}
+#restart{
+    font-size:20px;
+}
+canvas{
+    margin-top:100px;
+}
+#div1{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+}
